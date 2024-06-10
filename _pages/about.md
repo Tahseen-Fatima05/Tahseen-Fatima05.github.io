@@ -20,6 +20,7 @@ Education
 
 Experience
 =========
+* **Visting Research Scholar**, [Purdue Univeristy](https://www.cs.purdue.edu/homes/ab/), [May 2024 - ongoing]
 * **Workplace Bots Developer**, [Kwench Global Technologies Pvt. Ltd.](https://www.huminos.com/), [October 2017 - April 2018]
 * **Software Engineer**, [Novoinvent Software Pvt. Ltd.](https://www.novoinvent.com/), [July 2017 - September 2017]
 * **Student Coordinator**, [Software Incubator](https://silive.in/), (R&D center of [Ajay Kumar Garg Engineering College, Ghaziabad](https://www.akgec.ac.in/)), [August 2014 - May 2017]
