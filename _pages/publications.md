@@ -19,17 +19,10 @@ Journal Publications
 
 E-Publications
 ==============
-**[Book Review: Paraja](https://thedaak.in/2023/09/15/paraja/)**: TheDaak Books, September 2023
-**[Channar Revolt and the Contemporary Indian Context: Caste,
-Community and the Muslim Woman](https://doingsociology.org/2023/07/17/channar-revolt-and-the-contemporary-indian-context-caste-community-and-the-muslim-woman-tahseen-fatima/)**: Doing Sociology, July 2023
-**[Capitalist Alienation, Despair, and Working-class Solidarity in Guru Dutt’s Pyaasa](https://doi.org/10.71279/epw.v60i4.39264)**: Economic and Political Weekly: Postscript, January 2025
-**[Capitalist Alienation, Despair, and Working-class Solidarity in Guru Dutt’s Pyaasa](https://doi.org/10.71279/epw.v60i4.39264)**: Economic and Political Weekly: Postscript, January 2025
-**[Capitalist Alienation, Despair, and Working-class Solidarity in Guru Dutt’s Pyaasa](https://doi.org/10.71279/epw.v60i4.39264)**: Economic and Political Weekly: Postscript, January 2025
-**[Capitalist Alienation, Despair, and Working-class Solidarity in Guru Dutt’s Pyaasa](https://doi.org/10.71279/epw.v60i4.39264)**: Economic and Political Weekly: Postscript, January 2025
-
-<!---{% include base_path %}
-
-,{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}--->
+* *[Book Review: Paraja](https://thedaak.in/2023/09/15/paraja/)**: TheDaak Books, September 2023
+* *[Channar Revolt and the Contemporary Indian Context: Caste, Community and the Muslim Woman](https://doingsociology.org/2023/07/17/channar-revolt-and-the-contemporary-indian-context-caste-community-and-the-muslim-woman-tahseen-fatima/)**: Doing Sociology, July 2023
+* *[In the Name of Love and Family: The Systematic Invisibilization of Women's Work](https://doingsociology.org/2023/05/02/in-the-name-of-love-and-family-the-systematic-invisibilization-of-womens-work-jyoti-kumari-and-tahseen-fatima/)**: Doing Sociology, May 2023
+* *[Online Dating In India: Radicalisation Or Reinforcement Of Existing Societal Norms](https://feminisminindia.com/2023/05/12/online-dating-in-india-radicalisation-reinforcement-societal-norms/)**: Feminism in India, May 2023
+* *[Dalit Bahujan Representation in Indian Cinema with Focus on 'Sujata','Giddh', and 'Kantara'](https://feminisminindia.com/2023/04/17/dalit-bahujan-representation-in-indian-cinema-with-focus-on-sujata-giddh-and-kantara/)**: Feminism in India, April 2023
+* *[In the Name of Love and Family: The Systematic Invisibilization of Women's Work](https://feminisminindia.com/2023/03/24/the-systematic-invisibilisation-of-womens-work/)**: Feminism in India, March 2023
 
