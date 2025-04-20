@@ -1,11 +1,10 @@
 ---
-title: "FATALRead - Fooling visual speech recognition models"
+title: "Capitalist Alienation, Despair, and Working-class Solidarity in Guru
+Dutt’s Pyaasa"
 collection: publications
-authors: <strong>Anup Kumar Gupta</strong>, [Puneet Gupta](https://scholar.google.co.in/citations?hl=en&user=yUB8lNsAAAAJ&view_op=list_works&sortby=pubdate), and [Esa Rahtu](https://esa.rahtu.fi/)
-excerpt: 'This paper poposes a novel adversarial attack on the state-of-the-art VSR models with a 100% attack success rate. The algorithm was able to circumvent popular transformation defences with an attack success rate of more than 99%.'
-date: 2021-10-01
-venue: 'Applied Intelligence'
-paperurl: 'http://dx.doi.org/10.1007/s10489-021-02846-w'
+authors: Tahseen Fatima
+venue: 'Economic and Political Weekly: Postscript'
+paperurl: 'https://www.epw.in/journal/2025/4/postscript/capitalist-alienation-despair-and-working-class.html'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
