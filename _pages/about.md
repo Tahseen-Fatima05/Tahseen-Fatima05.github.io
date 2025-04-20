@@ -12,12 +12,12 @@ redirect_from:
 lorem ipsum dolor sit amet
 
 
----
-### Education
-||||
-|----------|----------|----------|
-| Ph.d | October 2023 - Present | Department of Political Science, University of Delhi |
-| Row 2 Col 1 | Row 2 Col 2 |
+Experience
+=========
+| Ph.D  | University of Delhi |
+| ------------- | ------------- |
+| October 2023 - Present  | Second year research scholar at the Department of Political Science  |
+| Content Cell  | Content Cell  |
 
 
 
