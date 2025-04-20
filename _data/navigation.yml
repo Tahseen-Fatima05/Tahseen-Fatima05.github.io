@@ -9,8 +9,8 @@ main:
   - title: "Conferences & Paper Presentations"
     url: /presentations/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Workshops"
+     url: /workshops/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
