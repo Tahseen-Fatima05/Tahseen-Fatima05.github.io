@@ -9,7 +9,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-An early career researcher working around gender, labour, handloom sector, informality, migration and marginality; I'm searching for opportunities that align with my interests.
+As an early career researcher working around gender, labour, handloom sector, informality, migration and marginality; I'm searching for opportunities that align with my interests.
 
 Education
 =========
