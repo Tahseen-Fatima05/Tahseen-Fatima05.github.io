@@ -10,7 +10,7 @@ main:
     url: /presentations/    
     
   - title: "Workshops"
-     url: /workshops/
+    url: /workshops/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
